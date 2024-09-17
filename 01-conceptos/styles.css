@@ -1,0 +1,20 @@
+p {
+    color: blue ;
+
+}
+a{
+    color: green
+};
+.link {
+    background: white;
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
