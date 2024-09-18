@@ -1,6 +1,5 @@
 p {
     color: blue ;
-
 }
 a{
     color: green
@@ -8,11 +7,9 @@ a{
 .link {
     background: white;
 }
-
 .image{
     width: 400px;
     height: 400px;
-
 }
 .container{
     display: flex;
